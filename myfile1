@@ -1,2 +1,6 @@
 First line
+<<<<<<< HEAD
 Second line
+=======
+2nd line
+>>>>>>> feature
